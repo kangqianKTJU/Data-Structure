@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.EmptyStackException;
 
+// Stack base on variable array
 public class MyStack<E>{
 
     private final int DEFAULT_CAPACITY = 10;
