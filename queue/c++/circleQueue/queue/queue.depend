@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1564626664 source:e:\kkq\computer\git\respostory\datastructure\data-structure\data-structure\data-structure\queue\c++\circlequeue\customer.cpp
+	<iostream>
+	"Customer.h"
+	<string>
+
+1564625890 e:\kkq\computer\git\respostory\datastructure\data-structure\data-structure\data-structure\queue\c++\circlequeue\customer.h
+	<string>
+
+1564627166 source:e:\kkq\computer\git\respostory\datastructure\data-structure\data-structure\data-structure\queue\c++\circlequeue\demo.cpp
+	<iostream>
+	<stdlib.h>
+	"MyQueue.h"
+	"Customer.h"
+	<string>
+
+1564624326 e:\kkq\computer\git\respostory\datastructure\data-structure\data-structure\data-structure\queue\c++\circlequeue\myqueue.h
+	"Customer.h"
+
+1564626981 source:e:\kkq\computer\git\respostory\datastructure\data-structure\data-structure\data-structure\queue\c++\circlequeue\myqueue.cpp
+	<iostream>
+	"Customer.h"
+	"MyQueue.h"
+	<string>
+
