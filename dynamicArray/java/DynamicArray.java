@@ -155,7 +155,7 @@ public class DynamicArray<E> {
         str.append("[");
         for(int i = 0; i < size ; i++){
             if(i == size - 1) str.append(elements[i] + "]\n");
-            str.append(elements[i] + ", ");
+            else str.append(elements[i] + ", ");
         }
         return str.toString();
 
